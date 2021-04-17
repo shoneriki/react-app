@@ -31,7 +31,7 @@ function App() {
       <input ref={todoNameRef} type="text" />
       <button onClick={handleAddTodo}>Add Todo</button>
       <button>Clear Completed Todos</button>
-      <div>0 left to do</div>
+      <div> 0 left to do </div>
     </>
   )
 }
